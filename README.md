@@ -1,3 +1,3 @@
 # GeekHaven17-18
 
-Everything about this session of GeeHaven will be present in this repository.
+Everything about this session of GeekHaven will be present in this repository.
