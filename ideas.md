@@ -4,6 +4,8 @@
 ## webD:  
 
 ## Foss: 
+1. Individual Project - Faculty Student feedback website
+2. Group Project - Found and lost,buy,sell or share and request things platform.
 
 ## Design: 
 
