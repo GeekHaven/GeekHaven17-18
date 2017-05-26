@@ -9,7 +9,11 @@
 
 ## Design: 
 
-## Software Dev: 
+## Software Dev:
+All are group project.
+1. Student Profile Portal - To create a system which would generate consolidated profile of any student based on data on activities on popular coding/development websites, and provide a comparison/rating system.
+2. Attendance portal - A mobile/web portal to take attendance in class.
+3. Offline lab judge - Judge which can validate a program with available test cases and produce a result. This is intended for evaluation purposes and has to be secure.
 
 ## Networking: 
 
