@@ -8,6 +8,12 @@
 2. Group Project - Found and lost,buy,sell or share and request things platform.
 
 ## Design: 
+Group Project:
+1. Campus Tour Video
+2. Minimal Poster Series about life at IIITA.
+
+Individual Projects:
+Redesign concepts of favorite application
 
 ## Software Dev:
 All are group project.
